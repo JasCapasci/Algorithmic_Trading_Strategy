@@ -1,4 +1,4 @@
-# Project Title : ALGORITHMIC TRADING STRATEGIES
+# PROJECT TITLE : ALGORITHMIC TRADING STRATEGIES
 
 ## Preface
 The purpose of this project is to compare different trading strategies using multiple indicators, specifically the Moving Average Convergence Divergence (MACD) and Bollinger Bands (B-Bands). The project includes three strategies: two strategies using MACD and B-Bands on a standalone basis, and one strategy that combines both indicators. The generated returns from these strategies have been analyzed in detail.
